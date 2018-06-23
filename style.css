@@ -1,0 +1,21 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #ffffff;
+  }
+  p,
+  li {
+    font-family: 'PT Serif', serif;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+
+  }
+  .content-wrapper{
+    width: 660px;
+  }
+
+  .style-details{
+    display: grid;
+
+  }
